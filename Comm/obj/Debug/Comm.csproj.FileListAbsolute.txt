@@ -1,0 +1,9 @@
+d:\users\tr\documents\visual studio 2015\Projects\Comm\Comm\bin\Debug\Comm.exe.config
+d:\users\tr\documents\visual studio 2015\Projects\Comm\Comm\bin\Debug\Comm.exe
+d:\users\tr\documents\visual studio 2015\Projects\Comm\Comm\bin\Debug\Comm.pdb
+d:\users\tr\documents\visual studio 2015\Projects\Comm\Comm\obj\Debug\Comm.csprojResolveAssemblyReference.cache
+d:\users\tr\documents\visual studio 2015\Projects\Comm\Comm\obj\Debug\Comm.Form1.resources
+d:\users\tr\documents\visual studio 2015\Projects\Comm\Comm\obj\Debug\Comm.Properties.Resources.resources
+d:\users\tr\documents\visual studio 2015\Projects\Comm\Comm\obj\Debug\Comm.csproj.GenerateResource.Cache
+d:\users\tr\documents\visual studio 2015\Projects\Comm\Comm\obj\Debug\Comm.exe
+d:\users\tr\documents\visual studio 2015\Projects\Comm\Comm\obj\Debug\Comm.pdb
